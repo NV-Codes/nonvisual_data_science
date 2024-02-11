@@ -78,30 +78,30 @@ The first three review shortcuts we'll use allow us to review line by line.
 To review the current line:
 
 NVDA + shift + .
-NVDA + NUMPAD 8
+NUMPAD 8
 
-That's NVDA, shift, period for laptop layouts and NVDA and numpad 8 for desktop layouts. This command will read aloud the line where the review cursor is currently situated.
+That's NVDA, shift, period for laptop layouts and numpad 8 for desktop layouts. This command will read aloud the line where the review cursor is currently situated.
 
 To move the review cursor up one line:
 
 NVDA + up
-NVDA + NUMPAD7
+NUMPAD7
 flick up on touchscreen
 
-On a laptop, hit NVDA and the up arrow. On desktop, hit NVDA and numpad 7. If you have a touchscreen, you can also flick up once.
+On a laptop, hit NVDA and the up arrow. On desktop, hit numpad 7. If you have a touchscreen, you can also flick up once.
 
 To move the review cursor down one line:
 
 NVDA + down
-NVDA + NUMPAD9
+NUMPAD9
 flick down on touchscreen
 
-On laptop, that's NVDA plus the down arrow. On Desktop, that's NVDA and numpad 9. On a touchscreen, you can flick down once.
+On laptop, that's NVDA plus the down arrow. On Desktop, that's numpad 9. On a touchscreen, you can flick down once.
 
 ## Exercise 1: Explore the REPL
 
 Now we'll take five minutes to use these shortcuts to explore our current REPL. There should be two "cells," one with a little math and one with the word "hello" as input and output. Remember that input/output pairs (cells) are separated by a blank line (in NVDA, you'll hear the word `blank` when reviewing). If you go back far enough, you'll start reviewing the text that appears when the REPL session starts. The top line should tell you the current version of Python you're using.
 
-We'll learn a few more review shortcuts as we move on in the workshop, but if you already know other NVDA review commands, feel free to use them. 
+We'll learn a few more review shortcuts as we move on in the workshop, but if you already know other NVDA review commands, feel free to use them.
 
 [<<< Previous](repl.md) | [Next >>>](math.md)
